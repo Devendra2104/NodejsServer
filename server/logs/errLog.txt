@@ -1,0 +1,11 @@
+20220422	10:38:21	62ed85d0-135e-42be-a7bc-314aab3650e3	Error: Not allowed by CORS
+20220422	16:59:45	0ff41351-0b73-4a1f-b1dc-79700c42570d	Error: secretOrPrivateKey must have a value
+20220422	17:01:07	1edbe7d7-dfdb-4cf1-8b8f-1fe54e265d9a	Error: secretOrPrivateKey must have a value
+20220422	17:01:48	d44fa56c-6e50-4cde-9cf5-51167b8ad930	Error: secretOrPrivateKey must have a value
+20220501	07:43:24	568d11e2-a99d-464c-b8b0-ee73de419de1	TypeError: #<Object> is not a function
+20220501	07:44:51	663032c4-590b-4b0a-aaed-368f66c53585	TypeError: #<Object> is not a function
+20220501	07:44:53	21189acb-6049-4a4e-b5c7-e85ec9c19aa1	TypeError: #<Object> is not a function
+20220501	07:44:54	27b60011-a98e-410f-89e0-c5501b01b08b	TypeError: #<Object> is not a function
+20220501	07:44:54	17224c7a-6846-400d-9e16-339508f675e2	TypeError: #<Object> is not a function
+20220501	07:46:40	16b247b6-6cd7-4cf4-a383-f89cfb3b3590	Error: Cannot set headers after they are sent to the client
+20220508	10:48:39	434c0d92-928e-4824-931c-e19537161347	ReferenceError: Cannot access 'rolesArray' before initialization

@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Rahul Singh",
+    "password": "$2b$10$kj4l6yAyBv0RjIvqi2bO3unQN9HSSTSfjZwhGYex0zSC0j/0YEhTO",
+    "roles": { "User": 2001 },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJhaHVsIFNpbmdoIiwiaWF0IjoxNjUxOTg5MjU2LCJleHAiOjE2NTIwNzU2NTZ9.9bq3Lqz7NRN3HXevoqVUiDWtsZbv7bgbnd06dCk3D90"
+  },
+  {
+    "username": "Deepak Singh",
+    "password": "$2b$10$7pFYjnMgrSjxizIuMCSynuHGKHuCUJBppHOqELZVKqdXs9sgB97GC",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRlZXBhayBTaW5naCIsImlhdCI6MTY1MTk4OTUyMiwiZXhwIjoxNjUyMDc1OTIyfQ.WejV48_oYU5HGDdbujBXPNtqMpUeCWIFz3_g8OVlq18"
+  },
+  {
+    "username": "Devendra Singh",
+    "password": "$2b$10$wp/3fYWdR5aAnrsZuNeFEuy1pCkVRVkL./LZ2/8ZxivkaLmRFc1.2",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5001 },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRldmVuZHJhIFNpbmdoIiwiaWF0IjoxNjUxOTg5NzU4LCJleHAiOjE2NTIwNzYxNTh9.VoAyDEhGzSVMxO_7JXbVFGE7kpsyxNpR9Z2AlCHsxXA"
+  }
+]
