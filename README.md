@@ -1,4 +1,7 @@
 # NodejsServer
 A basic Server that provide functionalities of CRUD operations. 
 
-Used Express.js to make life easy rather than creating a whole new server in pure node.js
+FrameWork - Express.js
+Database Used - MongoDB
+Design Pattern - MVC (Model View Controller)
+
