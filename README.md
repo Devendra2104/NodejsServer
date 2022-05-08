@@ -1,7 +1,8 @@
 # NodejsServer
 A basic Server that provide functionalities of CRUD operations. 
 
-FrameWork - Express.js </br>
-Database Used - MongoDB </br>
-Design Pattern - MVC (Model View Controller)
+## Descriptions
+1. FrameWork - Express.js </br>
+2. Database Used - MongoDB </br>
+3. Design Pattern - MVC (Model View Controller)
 
